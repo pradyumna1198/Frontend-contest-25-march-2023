@@ -1,0 +1,49 @@
+
+
+.container-fluid{
+  margin: 0;
+  padding: 0;
+}
+
+
+.carousel-item img {
+   width:100%;
+ }
+
+
+
+.nav-link{
+   color:rgba(13, 110, 253, 1);
+
+}
+.search{
+   float: inline-end;
+}
+
+.headpara{
+   padding:15px;
+}
+.baccordian{
+   padding:15px;
+}
+ .bcards {
+   padding: 15px;
+ }
+ .btable{
+   padding:15px;
+ }
+.bform {
+   padding: 15px;
+}
+
+td > a{
+   text-decoration: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+   td > a{
+      text-decoration:underline;
+   }
+}
+
